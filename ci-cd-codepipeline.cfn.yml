@@ -40,7 +40,7 @@ Parameters:
 
   GitHubUser:
     Type: String
-    Default: Skul
+    Default: Elcid-Chawa
     Description: GitHub username or organization
     MinLength: 3
     MaxLength: 100
